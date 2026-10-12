@@ -414,7 +414,7 @@ A computer stores characters as numbers.
 ```python
 ord('A')   # 65
 ord('B')   # 66
-chr(67)    # 'C'
+chr(68)    # 'D'
 ```
 
 Example use:
